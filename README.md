@@ -10,14 +10,14 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 
 **Recent releases**
 
-[local-memory-mcp v2.4.2](https://github.com/studiomeyer-io/local-memory-mcp/releases/tag/v2.4.2) — 2026-08-01  
 [darwin-agents v0.13.2](https://github.com/studiomeyer-io/darwin-agents/releases/tag/v0.13.2) — 2026-08-01  
+[local-memory-mcp v2.4.2](https://github.com/studiomeyer-io/local-memory-mcp/releases/tag/v2.4.2) — 2026-08-01  
 [darwin-langgraph v0.5.4](https://github.com/studiomeyer-io/darwin-langgraph/releases/tag/v0.5.4) — 2026-07-16  
 [mcp-armor v0.8.0](https://github.com/studiomeyer-io/mcp-armor/releases/tag/v0.8.0) — 2026-07-03  
 [ai-shield v0.5.0](https://github.com/studiomeyer-io/ai-shield/releases/tag/v0.5.0) — 2026-06-22  
 [agent-fleet v0.3.0](https://github.com/studiomeyer-io/agent-fleet/releases/tag/v0.3.0) — 2026-06-21  
 [mcp-covenant v0.1.0](https://github.com/studiomeyer-io/mcp-covenant/releases/tag/v0.1.0) — 2026-06-21  
-[mcp-passport v0.1.0](https://github.com/studiomeyer-io/mcp-passport/releases/tag/v0.1.0) — 2026-06-21  
+[mcp-herald v0.1.0](https://github.com/studiomeyer-io/mcp-herald/releases/tag/v0.1.0) — 2026-06-21  
 
 <sub>Updated weekly. Last run 2026-08-03.</sub>
 
