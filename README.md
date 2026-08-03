@@ -19,6 +19,8 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 [mcp-covenant v0.1.0](https://github.com/studiomeyer-io/mcp-covenant/releases/tag/v0.1.0) — 2026-06-21  
 [mcp-passport v0.1.0](https://github.com/studiomeyer-io/mcp-passport/releases/tag/v0.1.0) — 2026-06-21  
 
+<sub>Updated weekly. Last run 2026-08-03.</sub>
+
 <!-- /recent-releases -->
 
 ### Elsewhere
