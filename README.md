@@ -10,7 +10,7 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 
 **Recent releases**
 
-[darwin-agents v0.14.0](https://github.com/studiomeyer-io/darwin-agents/releases/tag/v0.14.0) — 2026-08-09  
+[darwin-agents v0.16.0](https://github.com/studiomeyer-io/darwin-agents/releases/tag/v0.16.0) — 2026-08-15  
 [mcp-herald v0.2.0](https://github.com/studiomeyer-io/mcp-herald/releases/tag/v0.2.0) — 2026-08-07  
 [local-memory-mcp v2.4.2](https://github.com/studiomeyer-io/local-memory-mcp/releases/tag/v2.4.2) — 2026-08-01  
 [darwin-langgraph v0.5.4](https://github.com/studiomeyer-io/darwin-langgraph/releases/tag/v0.5.4) — 2026-07-16  
@@ -19,7 +19,7 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 [agent-fleet v0.3.0](https://github.com/studiomeyer-io/agent-fleet/releases/tag/v0.3.0) — 2026-06-21  
 [mcp-covenant v0.1.0](https://github.com/studiomeyer-io/mcp-covenant/releases/tag/v0.1.0) — 2026-06-21  
 
-<sub>Updated weekly. Last run 2026-08-12.</sub>
+<sub>Updated weekly. Last run 2026-08-16.</sub>
 
 <!-- /recent-releases -->
 
