@@ -10,16 +10,16 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 
 **Recent releases**
 
-[darwin-agents v0.16.0](https://github.com/studiomeyer-io/darwin-agents/releases/tag/v0.16.0) — 2026-08-15  
-[mcp-herald v0.2.0](https://github.com/studiomeyer-io/mcp-herald/releases/tag/v0.2.0) — 2026-08-07  
-[local-memory-mcp v2.4.2](https://github.com/studiomeyer-io/local-memory-mcp/releases/tag/v2.4.2) — 2026-08-01  
-[darwin-langgraph v0.5.4](https://github.com/studiomeyer-io/darwin-langgraph/releases/tag/v0.5.4) — 2026-07-16  
-[mcp-armor v0.8.0](https://github.com/studiomeyer-io/mcp-armor/releases/tag/v0.8.0) — 2026-07-03  
-[ai-shield v0.5.0](https://github.com/studiomeyer-io/ai-shield/releases/tag/v0.5.0) — 2026-06-22  
-[agent-fleet v0.3.0](https://github.com/studiomeyer-io/agent-fleet/releases/tag/v0.3.0) — 2026-06-21  
-[mcp-covenant v0.1.0](https://github.com/studiomeyer-io/mcp-covenant/releases/tag/v0.1.0) — 2026-06-21  
+[ai-shield-py v0.3.0](https://github.com/studiomeyer-io/ai-shield-py/releases/tag/v0.3.0) — 2026-08-19  
+[local-memory-mcp v2.4.3](https://github.com/studiomeyer-io/local-memory-mcp/releases/tag/v2.4.3) — 2026-08-19  
+[mcp-academy v0.4.1](https://github.com/studiomeyer-io/mcp-academy/releases/tag/v0.4.1) — 2026-08-19  
+[mcp-cache-kit v0.1.1](https://github.com/studiomeyer-io/mcp-cache-kit/releases/tag/v0.1.1) — 2026-08-19  
+[mcp-hook-conformance v0.1.3](https://github.com/studiomeyer-io/mcp-hook-conformance/releases/tag/v0.1.3) — 2026-08-19  
+[mcp-otel v0.1.1](https://github.com/studiomeyer-io/mcp-otel/releases/tag/v0.1.1) — 2026-08-19  
+[mcp-personal-suite v0.5.6](https://github.com/studiomeyer-io/mcp-personal-suite/releases/tag/v0.5.6) — 2026-08-19  
+[mcp-protocol-conformance v0.2.1](https://github.com/studiomeyer-io/mcp-protocol-conformance/releases/tag/v0.2.1) — 2026-08-19  
 
-<sub>Updated weekly. Last run 2026-08-16.</sub>
+<sub>Updated weekly. Last run 2026-08-23.</sub>
 
 <!-- /recent-releases -->
 
