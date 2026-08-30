@@ -19,7 +19,7 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 [mcp-personal-suite v0.5.6](https://github.com/studiomeyer-io/mcp-personal-suite/releases/tag/v0.5.6) — 2026-08-19  
 [mcp-protocol-conformance v0.2.1](https://github.com/studiomeyer-io/mcp-protocol-conformance/releases/tag/v0.2.1) — 2026-08-19  
 
-<sub>Updated weekly. Last run 2026-08-23.</sub>
+<sub>Updated weekly. Last run 2026-08-30.</sub>
 
 <!-- /recent-releases -->
 
