@@ -10,16 +10,16 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 
 **Recent releases**
 
+[darwin-agents v0.18.0](https://github.com/studiomeyer-io/darwin-agents/releases/tag/v0.18.0) — 2026-09-04  
+[mcp-tenant-pair v0.1.2](https://github.com/studiomeyer-io/mcp-tenant-pair/releases/tag/v0.1.2) — 2026-09-04  
+[n8n-templates v0.3.1](https://github.com/studiomeyer-io/n8n-templates/releases/tag/v0.3.1) — 2026-09-04  
+[mcp-gauntlet v0.1.1](https://github.com/studiomeyer-io/mcp-gauntlet/releases/tag/v0.1.1) — 2026-09-01  
 [ai-shield-py v0.3.0](https://github.com/studiomeyer-io/ai-shield-py/releases/tag/v0.3.0) — 2026-08-19  
 [local-memory-mcp v2.4.3](https://github.com/studiomeyer-io/local-memory-mcp/releases/tag/v2.4.3) — 2026-08-19  
 [mcp-academy v0.4.1](https://github.com/studiomeyer-io/mcp-academy/releases/tag/v0.4.1) — 2026-08-19  
 [mcp-cache-kit v0.1.1](https://github.com/studiomeyer-io/mcp-cache-kit/releases/tag/v0.1.1) — 2026-08-19  
-[mcp-hook-conformance v0.1.3](https://github.com/studiomeyer-io/mcp-hook-conformance/releases/tag/v0.1.3) — 2026-08-19  
-[mcp-otel v0.1.1](https://github.com/studiomeyer-io/mcp-otel/releases/tag/v0.1.1) — 2026-08-19  
-[mcp-personal-suite v0.5.6](https://github.com/studiomeyer-io/mcp-personal-suite/releases/tag/v0.5.6) — 2026-08-19  
-[mcp-protocol-conformance v0.2.1](https://github.com/studiomeyer-io/mcp-protocol-conformance/releases/tag/v0.2.1) — 2026-08-19  
 
-<sub>Updated weekly. Last run 2026-08-30.</sub>
+<sub>Updated weekly. Last run 2026-09-06.</sub>
 
 <!-- /recent-releases -->
 
