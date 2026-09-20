@@ -19,7 +19,7 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 [mcp-academy v0.4.1](https://github.com/studiomeyer-io/mcp-academy/releases/tag/v0.4.1) — 2026-08-19  
 [mcp-cache-kit v0.1.1](https://github.com/studiomeyer-io/mcp-cache-kit/releases/tag/v0.1.1) — 2026-08-19  
 
-<sub>Updated weekly. Last run 2026-09-13.</sub>
+<sub>Updated weekly. Last run 2026-09-20.</sub>
 
 <!-- /recent-releases -->
 
