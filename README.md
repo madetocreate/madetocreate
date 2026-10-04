@@ -19,7 +19,7 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 [local-memory-mcp v2.4.3](https://github.com/studiomeyer-io/local-memory-mcp/releases/tag/v2.4.3) — 2026-08-19  
 [mcp-academy v0.4.1](https://github.com/studiomeyer-io/mcp-academy/releases/tag/v0.4.1) — 2026-08-19  
 
-<sub>Updated weekly. Last run 2026-09-27.</sub>
+<sub>Updated weekly. Last run 2026-10-04.</sub>
 
 <!-- /recent-releases -->
 
