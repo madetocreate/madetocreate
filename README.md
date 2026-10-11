@@ -10,6 +10,7 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 
 **Recent releases**
 
+[mcp-covenant v0.1.1](https://github.com/studiomeyer-io/mcp-covenant/releases/tag/v0.1.1) — 2026-10-04  
 [mcp-armor v0.8.1](https://github.com/studiomeyer-io/mcp-armor/releases/tag/v0.8.1) — 2026-09-21  
 [darwin-agents v0.18.0](https://github.com/studiomeyer-io/darwin-agents/releases/tag/v0.18.0) — 2026-09-04  
 [mcp-tenant-pair v0.1.2](https://github.com/studiomeyer-io/mcp-tenant-pair/releases/tag/v0.1.2) — 2026-09-04  
@@ -17,9 +18,8 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 [mcp-gauntlet v0.1.1](https://github.com/studiomeyer-io/mcp-gauntlet/releases/tag/v0.1.1) — 2026-09-01  
 [ai-shield-py v0.3.0](https://github.com/studiomeyer-io/ai-shield-py/releases/tag/v0.3.0) — 2026-08-19  
 [local-memory-mcp v2.4.3](https://github.com/studiomeyer-io/local-memory-mcp/releases/tag/v2.4.3) — 2026-08-19  
-[mcp-academy v0.4.1](https://github.com/studiomeyer-io/mcp-academy/releases/tag/v0.4.1) — 2026-08-19  
 
-<sub>Updated weekly. Last run 2026-10-04.</sub>
+<sub>Updated weekly. Last run 2026-10-11.</sub>
 
 <!-- /recent-releases -->
 
