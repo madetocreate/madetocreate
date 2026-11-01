@@ -19,7 +19,7 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 [ai-shield-py v0.3.0](https://github.com/studiomeyer-io/ai-shield-py/releases/tag/v0.3.0) — 2026-08-19  
 [local-memory-mcp v2.4.3](https://github.com/studiomeyer-io/local-memory-mcp/releases/tag/v2.4.3) — 2026-08-19  
 
-<sub>Updated weekly. Last run 2026-10-25.</sub>
+<sub>Updated weekly. Last run 2026-11-01.</sub>
 
 <!-- /recent-releases -->
 
