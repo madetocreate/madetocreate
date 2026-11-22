@@ -19,7 +19,7 @@ Most of it comes back to memory. An agent that forgets everything between sessio
 [mcp-spec-migrator-2511 v0.1.2](https://github.com/studiomeyer-io/mcp-spec-migrator-2511/releases/tag/v0.1.2) — 2026-11-01  
 [mcp-stateless-migrator v0.1.3](https://github.com/studiomeyer-io/mcp-stateless-migrator/releases/tag/v0.1.3) — 2026-11-01  
 
-<sub>Updated weekly. Last run 2026-11-15.</sub>
+<sub>Updated weekly. Last run 2026-11-22.</sub>
 
 <!-- /recent-releases -->
 
